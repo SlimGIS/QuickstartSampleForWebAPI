@@ -4,7 +4,7 @@ SlimGIS MapKit for WebAPI is a .net WebAPI component to help you to easily build
 
 *Note: this guide requires some javascript and Leaflet or OpenLayers knowledge. But we won't focus on neither javascript or the 3rd party client JS map library. We will talk more about to setup a RESTful map based web application using SlimGIS MapKit for WebAPI.*
 
-When you are reading this guide, I assume that you have installed SlimGIS Setup on your machine (if not ready, please visit [this page](#) and make it ready for few steps).
+When you are reading this guide, I assume that you have installed SlimGIS Setup on your machine (if not ready, please visit [this page](http://slimgis.com/developers/installation) and make it ready for few steps).
 
 In this guide, I will introduce the following items:
 
@@ -18,7 +18,7 @@ In this guide, I will introduce the following items:
 All right, I think we can stop here. Not too much content. It is only parts of this WebAPI component. View [this page](#) for the full feature list.
 
 ## Scenario description.
-What a basic map contains? I'm sure everyone has a different vision of it. Let's open the web browser and visit [maps.google.com](maps.google.com). It is the most popular map currently.  
+What a basic map contains? I'm sure everyone has a different vision of it. Let's open the web browser and visit [maps.google.com](http://www.google.com/maps). It is the most popular map currently.  
 ![quickstart-guide-google](http://p1.bqimg.com/567571/baf5b2a702cd22b2.png)
 A basic map application usually contains a map of course; a serial buttons to controll the map viewport (In the screenshot above, it adorns on the bottom right corner, see the little "+" and "-" button). A scale bar belows the buttons on the right of the very bottom. We can add more controls to make it convenient to use. Like displaying current mouse coordinate. This is what all for a common maps have. That's not all for this guide. You know everyone loves Google Maps, but compare with a component, we can do more as we like. In the following part, we will load our own Shapefile, set a nice style and put a lable on it; then interact with it. Isn't it cool? Let's get start.
 
