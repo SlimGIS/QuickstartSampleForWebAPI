@@ -4,7 +4,7 @@ SlimGIS MapKit for WebAPI is a .net WebAPI component to help you to easily build
 
 *Note: this guide requires some javascript and Leaflet or OpenLayers knowledge. But we won't focus on neither javascript or the 3rd party client JS map library. We will talk more about to setup a RESTful map based web application using SlimGIS MapKit for WebAPI.*
 
-When you are reading this guide, I assume that you have installed SlimGIS Setup on your machine (if not ready, please visit [this page](http://slimgis.com/developers/installation) and make it ready for few steps).
+When you are reading this guide, I assume that you have installed SlimGIS Setup on your machine (if not ready, please visit [installation guide](http://slimgis.com/documents/installation) and make it ready for few steps).
 
 In this guide, I will introduce the following items:
 
@@ -15,7 +15,7 @@ In this guide, I will introduce the following items:
 4. Add a Shapefile and set styles.
 5. Identify a clicked feature.
 
-All right, I think we can stop here. Not too much content. It is only parts of this WebAPI component. View [this page](#) for the full feature list.
+All right, I think we can stop here. Not too much content. It is only parts of this WebAPI component. View [this page](https://slimgis.com/documents/features-overview-all) for the full feature list.
 
 ## Scenario description.
 What a basic map contains? I'm sure everyone has a different vision of it. Let's open the web browser and visit [maps.google.com](http://www.google.com/maps). It is the most popular map currently.  
@@ -215,3 +215,9 @@ Now press `F5` to display the map, and click a country on the map.
 ![quickstart-guide-webapi-ol-map-countries-popup](http://i1.piimg.com/567571/cc35bcbda21f45de.png)
 
 That'a all for the scenario now. I'm sure you have more ideas for this guide. Please feel free to create a pull request, we are glad to take suggestions from you. Also, let us know how you think by dev@slimgis.com.
+
+## Related Resources
+- [Source code](https://github.com/SlimGIS/QuickstartSampleForWebAPI)
+- [Map Kit WebAPI introduction](https://slimgis.com/products/webapi)
+- [Map Kit WebAPI for ASP.NET Core introduction](https://slimgis.com/products/webapi-dnc)
+- [Installation guide](http://slimgis.com/documents/installation)
