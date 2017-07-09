@@ -1,6 +1,8 @@
-# Quickstart Guide for SlimGIS MapKit WebAPI with OpenLayers
+Keywords:   the beginners guide, online map, first map, web map
 
-SlimGIS MapKit for WebAPI is a .net WebAPI component to help you to easily build up RESTful service based application. It contains full function of SlimGIS MapKit Core which comes with Geometry, GeoFunction, Symbology, Renderer, DataSource, Layer etc. In this guide, we are going to focus on set up the first web application with it. 
+# Getting Started Guide for Map Kit WebAPI
+
+<desc>SlimGIS MapKit for WebAPI is a .net WebAPI component to help you to easily build up RESTful service based web map application. It contains full function of SlimGIS MapKit Core which comes with Geometry, GeoFunction, Symbology, Renderer, DataSource, Layer etc. This is the beginners guide that introduces building the first map application for web.</desc> 
 
 *Note: this guide requires some javascript and Leaflet or OpenLayers knowledge. But we won't focus on neither javascript or the 3rd party client JS map library. We will talk more about to setup a RESTful map based web application using SlimGIS MapKit for WebAPI.*
 
